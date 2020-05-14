@@ -87,7 +87,7 @@ a:hover {
   padding-left: 0px;
 }
 
-ul.list-inline {}
+/*ul.list-inline {}*/
 
 .list-inline > li {
   display: inline-block;
